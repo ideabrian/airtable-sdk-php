@@ -4,7 +4,7 @@ permalink: /start.html
 
 ## Getting Started
 
-The first think you will need to do it create an [Airtable](https://airtable.com) account.
+The first think you will need to do is create an [Airtable](https://airtable.com) account.
 
 At the time of this writing, the Airtable API doesn't include functionality for creating a `Base`. Therefore, this SDK assumes you have already created a `Base` using the Airtable.com web-based gui.
 
